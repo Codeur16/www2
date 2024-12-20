@@ -1,0 +1,11 @@
+{
+    "mire_train": {
+        "file_name": "mire/train.json",
+        "columns": {
+            "images": "image",
+            "prompt": "instruction",
+            "query": "input",
+            "response": "output"
+        }
+    }
+}
